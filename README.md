@@ -16,5 +16,4 @@ class OlaMundo
     }
 }
  
- #### Programação em Java - Exemplo de olá mundoa
 
